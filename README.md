@@ -4,7 +4,7 @@ Projeto feito em grupo consumindo uma PokeAPI, esse projeto foi um desafio que t
 
 Foi feito com React, e design feito com styled-components :nail_care: 
 
-**link do projeto para melhores visualização**
+**link do projeto para melhores visualizações**
 
 :eyes: https://hulking-discussion.surge.sh/
 
